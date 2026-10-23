@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software in research or education, please cite it."
+type: software
+title: "Gas-Filled Radiation Detector Virtual Laboratory"
+authors:
+  - family-names: Nurmetova
+    given-names: Gulzora
+    affiliation: "Tashkent State Medical University, Uzbekistan"
+    email: "gulzodanurmetova66@gmail.com"
+  - family-names: Bozorov
+    given-names: Erkin
+    affiliation: "Institute of Nuclear Physics, Academy of Sciences of Uzbekistan"
+version: "0.2.0"
+url: "https://gulzodanurmetova66-tech.github.io/radiation-detector-vlab/"
+repository-code: "https://github.com/gulzodanurmetova66-tech/radiation-detector-vlab"
+abstract: >-
+  A browser-based educational simulation of ionization chambers,
+  proportional counters, Geiger-Mueller counters, and detector dead-time
+  models for medical physics learning. Educational models are not calibrated
+  for clinical dosimetry.
