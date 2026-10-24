@@ -11,6 +11,7 @@ authors:
     given-names: Erkin
     affiliation: "Institute of Nuclear Physics, Academy of Sciences of Uzbekistan"
 version: "0.2.0"
+doi: "10.5281/zenodo.23610450"
 url: "https://gulzodanurmetova66-tech.github.io/radiation-detector-vlab/"
 repository-code: "https://github.com/gulzodanurmetova66-tech/radiation-detector-vlab"
 abstract: >-
