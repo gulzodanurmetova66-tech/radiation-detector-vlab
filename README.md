@@ -17,7 +17,7 @@ Academy of Sciences of Uzbekistan
 
 ## Version
 0.2 — 2026
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23610450.svg)](https://doi.org/10.5281/zenodo.23610450)
 ## Features
 - Ionization chamber simulations
 - Proportional counter simulations
